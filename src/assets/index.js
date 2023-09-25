@@ -1,10 +1,12 @@
 import airbnb from "./airbnb.png";
-import bill from "./bill.png";
+import bill from "./gd.png";
 import binance from "./binance.png";
-import card from "./card.png";
+import wb from "./wb.png";
+import iot from "./iot.png"
+import ml from "./ml.png"
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import quotes from "./quotes.svg";
 import robot from "./robot.png";
 import send from "./Send.svg";
@@ -28,7 +30,9 @@ export {
   airbnb,
   bill,
   binance,
-  card,
+  wb,
+  iot,
+  ml,
   coinbase,
   dropbox,
   logo,

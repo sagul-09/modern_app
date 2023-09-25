@@ -23,24 +23,24 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Vision",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Our vision is to create a vibrant college tech community where diverse learners unite to explore and advance technology. Together, we foster innovation, collaboration, and lifelong learning, empowering learners to leverage technology for a positive impact.",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "Mission",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Our mission is to provide a platform that empowers learners to excel in the fields of Machine Learning, Web Development, Game Development, Intelligent Systems, and much more",
   },
-  {
-    id: "feature-3",
-    icon: send,
-    title: "Balance Transfer",
-    content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
-  },
+  // {
+  //   id: "feature-3",
+  //   icon: send,
+  //   title: "Balance Transfer",
+  //   content:
+  //     "A balance transfer credit card can save you a lot of money in interest charges.",
+  // },
 ];
 
 export const feedback = [
@@ -73,18 +73,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Club Members",
+    value: "1000+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Events Conducted",
+    value: "100+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Workshop Conducted",
+    value: "50+",
   },
 ];
 
@@ -118,33 +118,30 @@ export const footerLinks = [
     title: "Community",
     links: [
       {
-        name: "Help Center",
+        name: "Game & App Development",
         link: "https://www.hoobank.com/help-center/",
       },
       {
-        name: "Partners",
+        name: "Web Deveplopment",
         link: "https://www.hoobank.com/partners/",
       },
       {
-        name: "Suggestions",
+        name: "Internet of Things",
         link: "https://www.hoobank.com/suggestions/",
       },
       {
-        name: "Blog",
+        name: "Machine Learning",
         link: "https://www.hoobank.com/blog/",
       },
-      {
-        name: "Newsletters",
-        link: "https://www.hoobank.com/newsletters/",
-      },
+     
     ],
   },
   {
-    title: "Partner",
+    title: "Contact",
     links: [
       {
-        name: "Our Partner",
-        link: "https://www.hoobank.com/our-partner/",
+        name: "Marinto Richi :- Marinto@gmil.com",
+        
       },
       {
         name: "Become a Partner",

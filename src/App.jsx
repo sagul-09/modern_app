@@ -1,5 +1,5 @@
 import styles from "./style";
-import {  NavBar,Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer } from './components';
+import {  NavBar,Hero, Stats, Business, Billing, CardDeal, Testimonials, CTA, Footer, Iot, Ml } from './components';
 
 
 
@@ -24,8 +24,9 @@ const App = () =>(
 <Business/>
 <Billing/>
 <CardDeal/>
+<Iot/>
+<Ml/>
 <Testimonials/>
-<Clients/>
 <CTA/>
 <Footer/>
   </div>

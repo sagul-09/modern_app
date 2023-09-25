@@ -22,16 +22,13 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" /> we’ll handle
-        the money.
+        About <span className="text-gradient">Tech Society</span>
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+      Welcome to our dynamic and innovative Tech Society! Your gateway to the exciting world of new technologies. A community created by the learners, of the learners, and for the learners. Through engaging workshops, thrilling hackathons, and collaborative project support, we are here to ignite your passion for technology and empower you to shape the future. Join us on this journey of exploration, creation, and endless possibilities.
       </p>
 
-      <Button styles={`mt-10`} />
+      {/* <Button styles={`mt-10`} /> */}
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>
