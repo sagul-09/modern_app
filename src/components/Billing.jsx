@@ -13,7 +13,7 @@ const Billing = () =>  (
 </div>
 
 <div className={layout.sectionInfo}>
-  <h2 className={styles.heading2}>Game and <br className='sm:hidden'/>App Development.</h2>
+  <h2 className={styles.heading2}>Game and <br className='sm:hidden'/>App Development</h2>
   <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
   We're a passionate community of developers, designers, and creators dedicated to game and app development. Join us to learn, collaborate, and bring your digital ideas to life. Together, we'll build, innovate, and inspire.
       </p>
