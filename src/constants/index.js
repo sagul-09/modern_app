@@ -7,15 +7,15 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Features",
+    title: "About",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Community",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Thoughts",
   },
 ];
 
@@ -93,25 +93,22 @@ export const footerLinks = [
     title: "Useful Links",
     links: [
       {
-        name: "Content",
+        name: "Home",
         link: "https://www.hoobank.com/content/",
       },
       {
-        name: "How it Works",
+        name: "About",
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
-        name: "Create",
+        name: "Community",
         link: "https://www.hoobank.com/create/",
       },
       {
-        name: "Explore",
+        name: "Thoughts",
         link: "https://www.hoobank.com/explore/",
       },
-      {
-        name: "Terms & Services",
-        link: "https://www.hoobank.com/terms-and-services/",
-      },
+      
     ],
   },
   {

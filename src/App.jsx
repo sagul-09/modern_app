@@ -26,7 +26,7 @@ const App = () =>(
 <CardDeal/>
 <Iot/>
 <Ml/>
-<Testimonials/>
+{/* <Testimonials/> */}
 <CTA/>
 <Footer/>
   </div>
