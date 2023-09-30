@@ -39,13 +39,13 @@ const Footer = () => (
       
       
     </div>
-    <div className="w-full text-white">
+    <div className="w-full text-white flex flex-col gap-2">
           <h4 className="font-poppins font-medium text-[18px] leading-[27px] text-white">LOCATION</h4>
-          <p className="address ">
+          <p className="address font-poppins font-normal text-[16px] leading-[24px] text-dimWhite  cursor-pointer ">
             Saveetha Nagar, Sriperumbadur Taluk, Kanchipuram - Chennai Rd,
             Chennai, Tamil Nadu 602105
           </p>
-          <div class="mapouter">
+          <div class="mapouter ">
             <div class="gmap_canvas">
               <iframe
                 style={{
