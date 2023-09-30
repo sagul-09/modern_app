@@ -1,8 +1,8 @@
 import NavBar from "./Navbar";
-import Billing from "./Billing";
-import CardDeal from "./CardDeal";
-import Business from "./Business";
-import CTA from "./CTA";
+import GameDev from "./GameDev";
+import WebDev from "./WebDev";
+import AboutTs from "./AboutTs";
+import JoinNow from "./JoinNow";
 import Stats from "./Stats";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
@@ -12,12 +12,12 @@ import Ml from "./Ml"
 
 export {
   NavBar,
-  Billing,
-  CardDeal,
+  GameDev,
+  WebDev,
   Iot,
   Ml,
-  Business,
-  CTA,
+  AboutTs,
+  JoinNow,
   Stats,
   Footer,
   Testimonials,

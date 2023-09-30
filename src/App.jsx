@@ -1,10 +1,12 @@
 import styles from "./style";
-import {  NavBar,Hero, Stats, Business, Billing, CardDeal, Testimonials, CTA, Footer, Iot, Ml } from './components';
+import {  NavBar,Hero, Stats, AboutTs, GameDev, WebDev, Testimonials, JoinNow, Footer, Iot, Ml } from './components';
 
 
 
 const App = () =>(
-  <div className="bg-primary w-full overflow-hidden">
+  <div className="h-auto scrollbar scrollbar-thumb-rose-500 scrollbar-track-slate-700">
+  <div className="bg-primary w-full overflow-hidden ">
+    
     <div className={`${styles.paddingX}} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
         <NavBar/>
@@ -21,19 +23,20 @@ const App = () =>(
 <div className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}>
   <div className={`${styles.boxWidth}`}>
 <Stats/>
-<Business/>
-<Billing/>
-<CardDeal/>
+<AboutTs/>
+<GameDev/>
+<WebDev/>
 <Iot/>
 <Ml/>
-{/* <Testimonials/> */}
-<CTA/>
+<Testimonials/>
+<JoinNow/>
 <Footer/>
   </div>
 
 </div>
 
   </div>
+  </div> 
   
 )
 

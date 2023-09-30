@@ -2,7 +2,7 @@ import { wb } from "../assets"
 import styles, { layout } from "../style";
 import Button from "./Button";
 
-const CardDeal = () =>  (
+const WebDev = () =>  (
    <section className={layout.section} >
 <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
@@ -21,4 +21,4 @@ const CardDeal = () =>  (
   )
 
 
-export default CardDeal
+export default WebDev
