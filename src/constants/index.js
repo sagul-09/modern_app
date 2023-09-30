@@ -15,7 +15,7 @@ export const navLinks = [
   },
   {
     id: "clients",
-    title: "Thoughts",
+    title: "Testimonial",
   },
 ];
 
@@ -46,16 +46,15 @@ export const features = [
 export const feedback = [
   {
     id: "feedback-1",
-    content:
-      "ding",
+    content:"As the Associate Dean and creator, I'm thrilled to join this dynamic community. Let's ignite innovation, nurture growth, and leave a lasting legacy together.",
     name: "Obed Otto",
-    title: "Founder & Deen",
+    title: "Associate Dean",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "dong.",
+      "As Principal, our commitment to excellence, innovation, and community is unwavering. Together, let's shape the future through education and research.",
     name: "Principal",
     title: "Principal",
     img: people02,
@@ -63,7 +62,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "ding dong.",
+      "As Vice Principal, I'm honored to join our journey toward knowledge and growth. Let's nurture talent, encourage critical thinking, and achieve together.",
     name: "Vice principal",
     title: "Vice principal",
     img: people03,
@@ -87,23 +86,7 @@ export const stats = [
     value: "50+",
   },
 ];
-export const sec = [
-  {
-    id: "stats-1",
-    title: "marinto",
-    value: "hello",
-  },
-  {
-    id: "stats-2",
-    title: "Events Conducted",
-    value: "100+",
-  },
-  {
-    id: "stats-3",
-    title: "Workshop Conducted",
-    value: "50+",
-  },
-];
+
 
 export const footerLinks = [
   {
