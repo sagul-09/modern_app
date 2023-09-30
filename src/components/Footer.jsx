@@ -39,6 +39,25 @@ const Footer = () => (
       
       
     </div>
+    <div className="w-full text-white">
+          <h4 className="font-poppins font-medium text-[18px] leading-[27px] text-white">LOCATION</h4>
+          <p className="address ">
+            Saveetha Nagar, Sriperumbadur Taluk, Kanchipuram - Chennai Rd,
+            Chennai, Tamil Nadu 602105
+          </p>
+          <div class="mapouter">
+            <div class="gmap_canvas">
+              <iframe
+                style={{
+                  borderRadius: "10px",
+                }}
+                class="gmap_iframe"
+                width="100%"
+                src="https://maps.google.com/maps?width=250&amp;height=250&amp;hl=en&amp;q=Saveetha engineering college&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
+              ></iframe>
+            </div>
+          </div>
+        </div>
 
     <div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3F3E45]">
       <p className="font-poppins font-normal text-center text-[18px] leading-[27px] text-white">

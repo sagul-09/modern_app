@@ -112,10 +112,10 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Community",
+    title: "Secretaries",
     links: [
       {
-        name: "Game & App Development",
+        name: "Marinto Richi",
         link: "https://www.hoobank.com/help-center/",
       },
       {
