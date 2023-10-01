@@ -2,6 +2,7 @@ import styles from '../style'
 import { arrowUp } from '../assets'
 
 const GetStarted = () => (
+  <a href="https://www.hartz.com/wp-content/uploads/2023/05/do-cats-only-meow-to-humans-1.jpg" target="_blank">
     <div className={`${styles.flexCenter} w-[140px] h-[140px] rounded-full bg-blue-gradient p-[2px] cursor-pointer`}>
       <div className={`${styles.flexCenter} flex-col bg-primary w-[100%] h-[100%] rounded-full`}>
         <div className={`${styles.flexStart} flex-row`}>
@@ -17,6 +18,7 @@ const GetStarted = () => (
       </div>
 
     </div>
+    </a>
   )
 
 
