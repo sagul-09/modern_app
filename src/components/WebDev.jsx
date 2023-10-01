@@ -29,7 +29,7 @@ const WebDev = () =>  (
       {/* <Button styles={`mt-10`} /> */}
     </div>
     <div className={layout.sectionImg}>
-      <img src={wb} alt="card" className="w-[100%] h-[100%]"/>
+      <img src={wb} alt="card" className="w-[85%] h-[100%]"/>
     </div>
    </section>
   )
