@@ -1,5 +1,5 @@
 import airbnb from "./airbnb.png";
-import bill from "./gd.png";
+import gd from "./gd.png";
 import binance from "./binance.png";
 import wb from "./wb.png";
 import iot from "./iot.png"
@@ -22,13 +22,14 @@ import facebook from "./facebook.svg";
 import instagram from "./instagram.svg";
 import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
+import youtube from "./youtube.svg"
 import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 
 export {
   airbnb,
-  bill,
+  gd,
   binance,
   wb,
   iot,
@@ -51,6 +52,7 @@ export {
   instagram,
   linkedin,
   twitter,
+  youtube,
   people01,
   people02,
   people03,

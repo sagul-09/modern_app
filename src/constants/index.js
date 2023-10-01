@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, youtube  } from "../assets";
 
 export const navLinks = [
   {
@@ -17,6 +17,10 @@ export const navLinks = [
     id: "clients",
     title: "Testimonial",
   },
+  // {
+  //   id: "Event",
+  //   title: "Event",
+  // },
 ];
 
 export const features = [
@@ -169,6 +173,11 @@ export const socialMedia = [
     icon: linkedin,
     link: "https://www.linkedin.com/",
   },
+  {
+    id: "social-media-5",
+    icon: youtube,
+    link: "https://www.linkedin.com/",
+  },
 ];
 
 //community social
@@ -193,6 +202,11 @@ export const socialMediaMl = [
     icon: linkedin,
     link: "https://www.linkedin.com/",
   },
+  {
+    id: "social-media-5",
+    icon: youtube,
+    link: "https://www.linkedin.com/",
+  },
 ];
 export const socialMediaIot = [
   {
@@ -213,6 +227,11 @@ export const socialMediaIot = [
   {
     id: "social-media-4",
     icon: linkedin,
+    link: "https://www.linkedin.com/",
+  },
+  {
+    id: "social-media-5",
+    icon: youtube,
     link: "https://www.linkedin.com/",
   },
 ];
@@ -237,6 +256,11 @@ export const socialMediaWeb = [
     icon: linkedin,
     link: "https://www.linkedin.com/",
   },
+  {
+    id: "social-media-5",
+    icon: youtube,
+    link: "https://www.linkedin.com/",
+  },
 ];
 export const socialMediaGd = [
   {
@@ -259,23 +283,28 @@ export const socialMediaGd = [
     icon: linkedin,
     link: "https://www.linkedin.com/",
   },
+  {
+    id: "social-media-5",
+    icon: youtube,
+    link: "https://www.linkedin.com/",
+  },
 ];
 
-export const clients = [
-  {
-    id: "client-1",
-    logo: airbnb,
-  },
-  {
-    id: "client-2",
-    logo: binance,
-  },
-  {
-    id: "client-3",
-    logo: coinbase,
-  },
-  {
-    id: "client-4",
-    logo: dropbox,
-  },
-];
+// export const clients = [
+//   {
+//     id: "client-1",
+//     logo: airbnb,
+//   },
+//   {
+//     id: "client-2",
+//     logo: binance,
+//   },
+//   {
+//     id: "client-3",
+//     logo: coinbase,
+//   },
+//   {
+//     id: "client-4",
+//     logo: dropbox,
+//   },
+// ];
